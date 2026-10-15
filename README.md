@@ -3,7 +3,9 @@
 **Unofficial community update of Staff++ (StaffPlusPlus) for Minecraft 26.3.**
 This is not the official version. All credit for the plugin goes to the original authors (Shortninja, Qball, Garagepoort).
 
-Original plugin: https://www.spigotmc.org/resources/staff.83562/
+Original plugin:
+- SpigotMC: https://www.spigotmc.org/resources/staff.83562/
+- Modrinth: https://modrinth.com/plugin/staff-plus-plus
 
 ## Download
 `releases/staffplusplus-remastered-26.3.0.jar`
@@ -16,4 +18,4 @@ Original plugin: https://www.spigotmc.org/resources/staff.83562/
 ## Notes
 - 26.3 support relies on the 26.2 NMS/packet layer being unchanged. If a 26.3 server build changes those internals, please open an issue.
 - Always back up your `plugins/StaffPlusPlus` folder before updating.
-- Support for the original plugin: use the SpigotMC page above.
+- Support for the original plugin: use the SpigotMC or Modrinth page above.
